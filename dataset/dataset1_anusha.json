@@ -1,0 +1,19 @@
+{
+	"name": "dataset1_anusha",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Azure_Blob1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "1584.jpg",
+				"container": "container1"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Anusha",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df41b2ca-007a-4c66-84c0-65b7f66188c7",
+		"tenantId": "f3d4fe4c-61b6-487e-badd-2928b7021b52"
+	}
+}
